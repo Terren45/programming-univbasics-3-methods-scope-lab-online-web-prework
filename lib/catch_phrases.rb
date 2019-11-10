@@ -6,4 +6,4 @@ end
 def toadstool
   puts status
 end
-rspec
+rspec spec/catch_phases_spec.rb
